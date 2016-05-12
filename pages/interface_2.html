@@ -1,0 +1,43 @@
+<head>
+  <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+	<script type="text/javascript" src="smoothie.js"></script>
+	<script src="/socket.io/socket.io.js"></script>
+	<script>
+		var currentData=0;
+		var smoothie;
+		var line1;
+		function initSocketIO()
+		{
+			iosocket = io.connect();
+			iosocket.on('onconnection', function(value) {
+		// recieve changed values by other client from server
+		iosocket.on('update', function (data) {
+			currentData= data; 
+			line1.append(new Date().getTime(), currentData)
+			// console.log(pollOneH)
+		});
+	});
+		}
+
+		window.onload = function() {
+			initSocketIO();
+			smoothie = new SmoothieChart({maxValue:5,minValue:0});
+			smoothie.streamTo(document.getElementById("mycanvas"));
+			line1 = new TimeSeries();
+			smoothie.addTimeSeries(line1);
+};
+
+$(document).ready(function() {
+
+	// iosocket.emit('buttonval',toggleVal);
+});
+
+</script>
+</head>
+<body>
+	<canvas id="mycanvas" width="400" height="100"></canvas>
+	<script type="text/javascript">
+		
+
+	</script>
+</body>

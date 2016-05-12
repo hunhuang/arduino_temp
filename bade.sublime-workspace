@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"send",
+				"sendData"
+			],
+			[
+				"graph",
+				"graph2"
+			],
+			[
+				"set",
+				"set_up"
+			],
+			[
+				"update",
+				"update_data"
+			],
+			[
+				"const",
+				"const_noise"
+			],
+			[
+				"con",
+				"const_noise"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"even",
+				"EventEmitter"
+			],
+			[
+				"emi",
+				"emit"
+			],
+			[
+				"tile",
+				"tilesets"
+			],
+			[
+				"full",
+				"fullyLoaded"
+			],
+			[
+				"num",
+				"numXTiles"
+			],
+			[
+				"pixe",
+				"pixelSize"
+			],
+			[
+				"pos",
+				"posY"
+			],
+			[
+				"sprite",
+				"spritename"
+			],
+			[
+				"g",
+				"gSpriteSheets"
+			],
+			[
+				"def",
+				"defSprite"
+			],
+			[
+				"at",
+				"atlasJSON"
+			],
+			[
+				"list",
+				"listProb"
+			],
+			[
+				"rende",
+				"render_json"
+			],
+			[
+				"del",
+				"deleteFile"
+			],
+			[
+				"dele",
+				"deleteAll"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"to",
+				"to_dict"
+			],
+			[
+				"date",
+				"date_created"
+			],
+			[
+				"Htt",
+				"HttpRequest"
+			],
+			[
+				"Join",
+				"JoinFriends"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"ref",
+				"ref_id"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"get",
+				"getIP"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "simulation_1.py",
+			"settings":
+			{
+				"buffer_size": 281,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: instal",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/LHUYNH/Desktop/learning"
+	],
+	"file_history":
+	[
+		"/D/school/pythonlearn/website_built/angular/ArduinoNode.js/index.js",
+		"/D/school/pythonlearn/website_built/angular/ArduinoNode.js/pages/interface.html",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/ARDUINO PRINT/simulation_1.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/ARDUINO PRINT/test_reading.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/ARDUINO PRINT/interface_pyqt.py",
+		"/D/school/pythonlearn/website_built/angular/ArduinoNode.js/server.js",
+		"/D/school/pythonlearn/website_built/angular/ArduinoNode.js/requestHandlers.js",
+		"/C/Users/LHUYNH/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/ARDUINO PRINT/read_from_arduino.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/ARDUINO PRINT/tam.py",
+		"/D/school/pythonlearn/website_built/angular/NODE/tam.js",
+		"/D/school/pythonlearn/website_built/angular/first serious app/main.js",
+		"/D/school/pythonlearn/website_built/angular/first serious app/js/main.js",
+		"/D/school/pythonlearn/website_built/angular/package.json",
+		"/D/school/pythonlearn/website_built/angular/MY ATTEMPT/package.json",
+		"/D/school/pythonlearn/website_built/angular/MY ATTEMPT/index.html",
+		"/D/school/pythonlearn/website_built/angular/MY ATTEMPT/menu.js",
+		"/D/school/pythonlearn/website_built/angular/MY ATTEMPT/editor.js",
+		"/D/school/pythonlearn/website_built/angular/MY ATTEMPT/main.js",
+		"/D/school/pythonlearn/website_built/angular/BOOTSTRAP/index.html",
+		"/D/school/pythonlearn/website_built/angular/MY ATTEMPT/style.css",
+		"/D/school/pythonlearn/website_built/angular/NODE/app.js",
+		"/D/school/pythonlearn/website_built/angular/index.html",
+		"/D/school/pythonlearn/website_built/angular/main.js",
+		"/D/school/pythonlearn/website_built/angular/file.js",
+		"/D/school/pythonlearn/website_built/angular/markdown-editor-master/markdown-editor-master/package.json",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/Final Project/Real/README.txt",
+		"/D/school/pythonlearn/website_built/html5/canvas.html",
+		"/D/school/pythonlearn/website_built/html5/core.js",
+		"/D/school/pythonlearn/website_built/html5/TILEDMapClass.js",
+		"/D/school/pythonlearn/website_built/html5/spritesheet.js",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/GERLING PROJECT/gen_function_1.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/GERLING PROJECT/lif_model.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/GERLING PROJECT/model_constants.py",
+		"/C/Users/LHUYNH/Desktop/exam note",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/ARDUINO PRINT/gui_qt.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/ARDUINO PRINT/list.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/ARDUINO PRINT/try_2.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/day17/AdaBoost.ipynb",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/Final Project/convert_png.bat",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/tutorial/IrisDecisionTree.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/ARDUINO PRINT/host.py",
+		"/C/Users/LHUYNH/Desktop/lkl.xspf",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/Final Project/merge2.csv",
+		"/C/Users/LHUYNH/Desktop/learning/thu.html",
+		"/C/Users/LHUYNH/Desktop/learning/Main.class",
+		"/D/CHROM/nw-sample-apps/camera/app.html",
+		"/C/Program Files (x86)/Arduino/hardware/tools/avr/etc/avrdude.conf",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/EXPERIMENT/setup.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/GERLING PROJECT/gen_function_approach 4.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/day15/listofground",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/day15/NaiveBayesPimaIndians%20_3_.ipynb",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/GERLING PROJECT/stress_to_spike.py",
+		"/C/Users/LHUYNH/Desktop/lich.todo",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/Final Project/test.csv",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/Final Project/sample_submission.csv",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/IPYTHON DOCUMENT/EXPERIMENT/hello.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/Day 7/FeatureSelectionFromModel_LogReg-1.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/Day 6/loi_HUYNH_BC-Wisconsin-Getting-Started.py",
+		"/C/Users/LHUYNH/Desktop/pacewar-1.6.3-win32/pacewar-1.6.3-win32/pacewar.py",
+		"/C/Users/LHUYNH/Documents/IPYTHON DOCUMENT/GERLING PROJECT/gen_function_1.py",
+		"/C/Users/LHUYNH/Documents/IPYTHON DOCUMENT/GERLING PROJECT/gen_function_approach 4.py",
+		"/C/Users/LHUYNH/Documents/IPYTHON DOCUMENT/GERLING PROJECT/model_constants.py",
+		"/C/Users/LHUYNH/Desktop/jupyter.bat",
+		"/C/Users/LHUYNH/Documents/IPYTHON DOCUMENT/GERLING PROJECT/figure_report/result_level2.csv",
+		"/C/Users/LHUYNH/Documents/IPYTHON DOCUMENT/GERLING PROJECT/figure_report/result_level1.csv",
+		"/C/Users/LHUYNH/Desktop/Current/NGAN INTENR/NOTE.txt",
+		"/C/Users/LHUYNH/Documents/IPYTHON DOCUMENT/GERLING PROJECT/figure_report/result_piezo2Cont.csv",
+		"/D/school/MANH HUYNH/APPLICATION FALL 2016/CONCORD UNIVERSITY/clep/CAL/New Text Document.txt",
+		"/C/Users/LHUYNH/Documents/IPYTHON DOCUMENT/GERLING PROJECT/figure_report/result_.csv",
+		"/C/Users/LHUYNH/Documents/IPYTHON DOCUMENT/GERLING PROJECT/figure_report/result_atoh1cko.csv",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6018- DATA MINING/PCA+and+LDA+Projections+on+the+Zipcode+Data.R",
+		"/C/Users/LHUYNH/Desktop/Current/NGAN INTENR/striving_result_temp",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/tutorial/onehotencoder.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/tutorial/onehotencoder",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/tutorial/convert.bat",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6016-MACHINE/tutorial/new_test",
+		"/C/Users/LHUYNH/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/LHUYNH/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/LHUYNH/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/Old Code/lif_model.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/Old Code/gen_function_approach 4.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/Old Code/gen_function_1.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/Old Code/model_constants.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/Old Code/stress_1.py",
+		"/C/Users/LHUYNH/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6018- DATA MINING/second/Housing+Regression+Example.R",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/data/time.txt",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/data/stress.txt",
+		"/D/school/pythonlearn/website_built/loihuynhact/training/pages/tem1.html",
+		"/D/school/pythonlearn/website_built/loihuynhact/templates/pages/homepage.html",
+		"/D/school/pythonlearn/website_built/loihuynhact/templates/pages/tem1.html",
+		"/C/Users/LHUYNH/Desktop/phone info",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/UED/source/sources359/css/style.css",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/UED/source/sources359/index.html",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6018- DATA MINING/zip.train/zip.train",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6018- DATA MINING/solution/zip.test",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/SPRING 2016/SYS6018- DATA MINING/cancer",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/Old Code/stress_to_spike.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/Old Code/gen_function.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/loi_thu.py",
+		"/C/Users/LHUYNH/Desktop/Minot state",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/grading TA/individual 4/asumption",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/BME 4641/Final project/project.m",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/fcon_disp3_stress.csv",
+		"/C/Users/LHUYNH/Desktop/Colour_Contrast_Analyser.ini",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/original_stress_to_spike.py",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/Research/GeneratorFunction/Shawn model data/dcon_disp3_displ.csv",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/grading TA/individual 4/note for assign 4",
+		"/C/Users/LHUYNH/Desktop/note for assign 3",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/grading TA/indiv assign 2/_________Note_assign2.txt",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/grading TA/Group assign 1/#some note for grading assignment 2.txt",
+		"/C/Users/LHUYNH/Desktop/Note for grading Ind 2",
+		"/D/school/UK AUS plan/School Applied/UVIRGINIA/Fall 2015/grading TA/Group assign 1/new note_grading",
+		"/C/Users/LHUYNH/Desktop/Note_assign2.txt",
+		"/C/Users/LHUYNH/Desktop/new comp.",
+		"/C/Users/LHUYNH/Desktop/new note_grading",
+		"/C/Users/LHUYNH/Desktop/#some note for grading assignment 2",
+		"/C/Users/LHUYNH/Desktop/note for grading",
+		"/D/school/pythonlearn/nodejs/learningFromBook/myproj/error.js",
+		"/D/school/pythonlearn/nodejs/learningFromBook/myproj/argv.js",
+		"/D/school/pythonlearn/nodejs/learningFromBook/myproj/test.js",
+		"/D/school/pythonlearn/nodejs/learningFromBook/myproj/readFile.js",
+		"/D/school/pythonlearn/nodejs/learningFromBook/myproj/event.js",
+		"/D/school/pythonlearn/nodejs/learningFromBook/server.js",
+		"/D/school/pythonlearn/nodejs/learningFromBook/myproj/package.json",
+		"/D/school/pythonlearn/nodejs/learningFromBook/myproj/thu.js",
+		"/D/school/pythonlearn/html5game/d3/thu.html"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sendData",
+			"self.data",
+			"self.res",
+			"readline",
+			"print",
+			"    ",
+			"stress_to_current",
+			"sed_to_group_current",
+			",1",
+			"stress_to_current",
+			">>> ",
+			"spike_time_to_trace",
+			"sed_to_group_current",
+			"stress_to_current",
+			"^\\n",
+			"latex",
+			"view",
+			"range",
+			"<html>\n<head>\n\n<style>\n.chart rect {\n  fill: steelblue;\n}\n\n.chart text {\n  fill: white;\n  font: 10px sans-serif;\n  text-anchor: end;\n}\n.chart rect:hover{\n	fill: brown;\n}\n\n\n</style>\n\n</head>\n<body>\n\n<svg class=\"chart\"></svg>\n<script src=\"d3.min.js\"  charset=\"utf-8\"></script>\n<script>\n	var barHeight = 20*2;\n	var margin = {top: 20, right: 30, bottom: 30, left: 40},\n    	width = 960 - margin.left - margin.right,\n    	height = 500 - margin.top - margin.bottom;\n\n	var x = d3.scale.ordinal()\n    .rangeRoundBands([0, width], .1);\n	var y = d3.scale.linear()\n	    .range([height,0]);\n\n	\n	d3.tsv(\"data.tsv\", type, function(error, data) {\n	  y.domain([0, d3.max(data, function(d) { return d.value; })]);\n	x.domain(data.map(function(d) { return d.name; }));\n	var chart = d3.select(\".chart\")\n	  	.style('background','brown')\n	  	    .attr(\"width\", width + margin.left + margin.right)\n		    .attr(\"height\", height + margin.top + margin.bottom)\n		  .append(\"g\")\n		    .attr(\"transform\", \"translate(\" + margin.left + \",\" + margin.top + \")\");\n	var xAxis = d3.svg.axis()\n	    .scale(x)\n	    .orient(\"bottom\");\n	var yAxis = d3.svg.axis()\n	    .scale(y)\n	    .orient(\"left\");\n	chart.append(\"g\")\n      .attr(\"class\", \"x axis\")\n      .attr(\"transform\", \"translate(0,\" + height + \")\")\n      .call(xAxis);\n	chart.append(\"g\")\n	    .attr(\"class\", \"y axis\")\n	    .call(yAxis)\n	.append(\"text\")\n	    .attr(\"transform\", \"rotate(-90)\")\n	    .attr(\"y\", 6)\n	    .attr(\"dy\", \".71em\")\n	    .style(\"text-anchor\", \"end\")\n	    .text(\"Frequency\");\n	var bar = chart.selectAll(\".bar\")\n	      	.data(data)\n	    	.enter().append(\"g\")\n	      	\n\n	  bar.append(\"rect\")\n	      .attr(\"width\",x.rangeBand() )\n	      .attr(\"height\", function(d) { return height-y(d.value); })\n	      .attr(\"y\", function(d) { return y(d.value); })\n	      .attr('x', function(d) { return x(d.name);});\n	  bar.append(\"text\")\n	      .attr(\"x\", function(d) { return x(d.name)+x.rangeBand()/2;})\n	      .attr(\"y\",  function(d) { return y(d.value) + 5; })\n	      .attr(\"dy\", \".35em\")\n	      .text(function(d) { return d.value; });\n	});\n\n	function type(d) {\n	  d.value = +d.value; // coerce to number\n	  return d;\n	}\n</script>\n\n</body>\n</html>\n",
+			"HttpReponseRedirect",
+			"dev",
+			"DATABASES",
+			"BASE_DIR",
+			"INSTALLED_APPS",
+			"getting",
+			"draw_white_space",
+			"gettingstarted"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"self.data1",
+			"self.count1",
+			"\\t",
+			"",
+			"\\t",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "simulation_1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 165.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "bade.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\school\\UK AUS plan\\School Applied\\UVIRGINIA\\Fall 2015\\Research\\GeneratorFunction\\Old Code\\coding-biology.sublime-project"
+			]
+		],
+		"width": 784.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
