@@ -1,0 +1,51 @@
+<head>
+  <script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+	<script type="text/javascript" src="bower_components/smoothie/smoothie.js"></script>
+	<script src="/socket.io/socket.io.js"></script>
+	<script>
+		var currentData=0;
+		var smoothie1, smoothie2;
+		var line1, line2;
+		function initSocketIO()
+		{
+			iosocket = io.connect();
+			iosocket.on('onconnection', function(value) {
+		// recieve changed values by other client from server
+		iosocket.on('update', function (data) {
+			currentData= data.vol_array;
+			line1.append(new Date().getTime(), currentData[0])
+			line2.append(new Date().getTime(), currentData[1])
+			
+		});
+	});
+		}
+
+		window.onload = function() {
+			initSocketIO();
+			smoothie1 = new SmoothieChart({maxValue:5,minValue:0,
+				grid:{fillStyle:'#ffffff',strokeStyle:'#ffffff'}, labels:{fillStyle:'#000000'}});
+			smoothie2 = new SmoothieChart({maxValue:5,minValue:0,
+				grid:{fillStyle:'#ffffff',strokeStyle:'#ffffff'}, labels:{fillStyle:'#000000'}});
+				
+			smoothie1.streamTo(document.getElementById("mycanvas1"));
+			smoothie2.streamTo(document.getElementById("mycanvas2"));
+			line1 = new TimeSeries();
+			line2 = new TimeSeries();
+			
+			smoothie1.addTimeSeries(line1, {lineWidth:2,strokeStyle:'#000000'});
+			smoothie2.addTimeSeries(line2, {lineWidth:2,strokeStyle:'#000000'});
+};
+
+$(document).ready(function() {
+
+	// iosocket.emit('buttonval',toggleVal);
+});
+
+</script>
+</head>
+<body>
+	<canvas id="mycanvas1" width="400" height="100"></canvas>
+	<p>
+	<canvas id="mycanvas2" width="400" height="100"></canvas>
+	
+</body>
